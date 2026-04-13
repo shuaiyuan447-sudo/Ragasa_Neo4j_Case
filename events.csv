@@ -1,4 +1,6 @@
-﻿id,name,type,case_name,time,location,value,description
+
+id,name,type,case_name,time,location,value,description
+
 E01,台风桦加沙生成,初始事件,桦加沙,2025/9/18,西北太平洋,第18号台风,在西北太平洋生成
 E02,台风桦加沙强度增强,初始事件,桦加沙,2025/9/18,西北太平洋,17级以上（62米/秒）,60小时完成“四级跳”，维持超强台风77小时
 E03,台风桦加沙首次登陆,初始事件,桦加沙,2025/9/24,广东阳江海陵岛,13级（40米/秒）,以台风级首次登陆
