@@ -1,4 +1,6 @@
-﻿source_id,target_id,relation_type,relation_subtype,strength,case_name,description
+
+source_id,target_id,relation_type,relation_subtype,strength,case_name,description
+
 E01,E02,causes,因果关系,1,桦加沙,台风生成后强度持续增强
 E02,E03,causes,因果关系,0.95,桦加沙,强度增强后首次登陆广东阳江
 E03,E05,causes,因果关系,0.98,桦加沙,台风登陆引发极端风速
